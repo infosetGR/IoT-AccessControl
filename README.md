@@ -4,6 +4,8 @@ A fun AWS IoT project using Raspberry PI with camera and NFC hat to perform 2-fa
 
 ## Demo
 
+[Click to watch full video](https://youtu.be/ITglZijx0TU "Link Title")
+
 [![IoT Access Control with AWS Rekognition, Polly, Lambda, MQTT and Raspberry PI](https://i.makeagif.com/media/4-12-2021/2sqfUP.gif)](https://youtu.be/ITglZijx0TU "Link Title")
 
 ## Hardware
