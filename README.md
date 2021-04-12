@@ -15,7 +15,7 @@ A fun AWS IoT project using Raspberry PI with camera and NFC hat to perform 2-fa
 
 <img src="media/materials.jpg" alt="hardware and costs" width="350"/>
 
-<img src="media/accesscontrol_hardware.jpg" alt="hardware" width="350"/>
+<img src="media/accesscontrol_hardware.JPG" alt="hardware" width="350"/>
 
 ## BootStraping
 
@@ -58,7 +58,7 @@ The Lambda function to be setup in AWS to be trigerred from images uploaded to a
 ## Lego casing
 Fun case made with my 13yrs old son :blush:
 
-<img src="media/accesscontrol_legoedition.jpg" alt="hardware" width="350"/>
+<img src="media/accesscontrol_legoedition.JPG" alt="hardware" width="350"/>
 
 ## References
 Project was inspired from 
