@@ -96,7 +96,7 @@ if __name__ == '__main__':
                             else:
                                 Speak('Registration failed. Please try again.',polly)
                         except Exception:
-                              print(Exception.message)
+                            #   print(Exception.message)
                               Speak('Registration failed. Please try again.',polly)
 
                 #Access Control (1) with Rekognition 
